@@ -21,6 +21,8 @@
 5. Done fix -> On test.
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
+![create_project3](/screenshots/3.png)
+![create_project4](/screenshots/4.png)
 
 Остальные задачи должны проходить по упрощённому workflow:
 

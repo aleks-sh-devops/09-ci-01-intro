@@ -31,6 +31,8 @@
 3. Done develop -> On test.
 4. On test -> On develop, Done.
 5. Done -> Closed, Open.
+![create_project5](/screenshots/5.png)
+![create_project6](/screenshots/6.png)
 
 **Что нужно сделать**
 
